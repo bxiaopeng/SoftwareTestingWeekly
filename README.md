@@ -11,3 +11,9 @@
 - 一张内涵的图片
 
 欢迎提交 [issue](https://github.com/bxiaopeng/SoftwareTestingWeekly/issues)。
+
+
+
+## 2021
+
+[软件测试周刊（第01期）：古德哈特定律](https://www.yuque.com/duoduo-b2n97/lvg8r2/dbor1s)

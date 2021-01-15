@@ -17,3 +17,5 @@
 ## 2021
 
 [软件测试周刊（第01期）：古德哈特定律](https://www.yuque.com/duoduo-b2n97/lvg8r2/dbor1s)
+
+[软件测试周刊（第02期）：测试不背锅指南、搞垮领导、拼多多、Diagrams](https://www.yuque.com/duoduo-b2n97/lvg8r2/ewobh3)

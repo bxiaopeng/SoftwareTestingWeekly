@@ -16,8 +16,15 @@
 
 ## 2021
 
-[软件测试周刊（第01期）：古德哈特定律](https://www.yuque.com/duoduo-b2n97/lvg8r2/dbor1s)
+[软件测试周刊（第05期）：到底什么是抓手？](https://www.yuque.com/duoduo-b2n97/lvg8r2/qv7uhe)
+
+[软件测试周刊（第04期）：怎么说离职原因新的公司比较能接受？](https://www.yuque.com/duoduo-b2n97/lvg8r2/xttppu)
+
+[软件测试周刊（第03期）：质量回溯、自动验证埋点、故障度量指标、产品质量指标]( https://www.yuque.com/duoduo-b2n97/lvg8r2/ymrl0h) 
 
 [软件测试周刊（第02期）：测试不背锅指南、搞垮领导、拼多多、Diagrams](https://www.yuque.com/duoduo-b2n97/lvg8r2/ewobh3)
 
-[软件测试周刊（第03期）：质量回溯、自动验证埋点、故障度量指标、产品质量指标]( https://www.yuque.com/duoduo-b2n97/lvg8r2/ymrl0h) 
+[软件测试周刊（第01期）：古德哈特定律](https://www.yuque.com/duoduo-b2n97/lvg8r2/dbor1s)
+
+
+

@@ -16,6 +16,10 @@
 
 ## 2021
 
+[软件测试周刊（第07期）：每个人都是天才](https://www.yuque.com/duoduo-b2n97/lvg8r2/ubzocv)
+
+[软件测试周刊（第06期）：程序员最大的谎言是什么？](https://www.yuque.com/duoduo-b2n97/lvg8r2/dfakhc)
+
 [软件测试周刊（第05期）：到底什么是抓手？](https://www.yuque.com/duoduo-b2n97/lvg8r2/qv7uhe)
 
 [软件测试周刊（第04期）：怎么说离职原因新的公司比较能接受？](https://www.yuque.com/duoduo-b2n97/lvg8r2/xttppu)

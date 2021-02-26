@@ -16,6 +16,8 @@
 
 ## 2021
 
+[软件测试周刊（第08期）：大过节的](https://www.yuque.com/duoduo-b2n97/lvg8r2/cvec0q)
+
 [软件测试周刊（第07期）：每个人都是天才](https://www.yuque.com/duoduo-b2n97/lvg8r2/ubzocv)
 
 [软件测试周刊（第06期）：程序员最大的谎言是什么？](https://www.yuque.com/duoduo-b2n97/lvg8r2/dfakhc)

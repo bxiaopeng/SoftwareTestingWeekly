@@ -16,6 +16,8 @@
 
 ## 2021
 
+[软件测试周刊（第10期）: 大质量](https://www.yuque.com/duoduo-b2n97/lvg8r2/ahtyoz)
+
 [软件测试周刊（第09期）：如何看出一个人要离职了？](https://www.yuque.com/duoduo-b2n97/lvg8r2/nhc3l2)
 
 [软件测试周刊（第08期）：大过节的](https://www.yuque.com/duoduo-b2n97/lvg8r2/cvec0q)

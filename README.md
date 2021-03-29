@@ -16,6 +16,10 @@
 
 ## 2021
 
+[软件测试周刊（第12期）：程序员在晋升之后会发生什么？](https://www.yuque.com/duoduo-b2n97/lvg8r2/xtee09)
+
+[软件测试周刊（第11期）：飞狗](https://www.yuque.com/duoduo-b2n97/lvg8r2/mii2oe)
+
 [软件测试周刊（第10期）: 大质量](https://www.yuque.com/duoduo-b2n97/lvg8r2/ahtyoz)
 
 [软件测试周刊（第09期）：如何看出一个人要离职了？](https://www.yuque.com/duoduo-b2n97/lvg8r2/nhc3l2)
@@ -38,3 +42,6 @@
 
 
 
+公众号：毕小烦
+
+<img src="./imgs/gongzhonghao.jpg" style="zoom: 33%;" />

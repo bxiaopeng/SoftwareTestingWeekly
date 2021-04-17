@@ -16,6 +16,8 @@
 
 ## 2021
 
+[软件测试周刊（第15期）：将军赶路 不追小兔](https://www.yuque.com/duoduo-b2n97/lvg8r2/nqsxpn)
+
 [软件测试周刊（第14期）：质量保障的趋势](https://www.yuque.com/duoduo-b2n97/lvg8r2/wauwfh)
 
 [软件测试周刊（第13期）：质量是一种认知](https://www.yuque.com/duoduo-b2n97/lvg8r2/zb0ahg)

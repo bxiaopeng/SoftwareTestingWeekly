@@ -16,6 +16,8 @@
 
 ## 2021
 
+[软件测试周刊（第16期）：戴着镣铐起舞](https://www.yuque.com/duoduo-b2n97/lvg8r2/tnc9gv)
+
 [软件测试周刊（第15期）：将军赶路 不追小兔](https://www.yuque.com/duoduo-b2n97/lvg8r2/nqsxpn)
 
 [软件测试周刊（第14期）：质量保障的趋势](https://www.yuque.com/duoduo-b2n97/lvg8r2/wauwfh)

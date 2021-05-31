@@ -16,6 +16,8 @@
 
 ## 2021
 
+- [软件测试周刊（第21期）：不要告诉我你想干什么](https://www.yuque.com/duoduo-b2n97/lvg8r2/tg9as0)
+
 
 - [软件测试周刊（第20期）：恐惧，来自只思考却不行动](https://www.yuque.com/duoduo-b2n97/lvg8r2/kxvdt8)
 - [软件测试周刊（第19期）：以能力、流程、指标和工具为轴心打造一流的质量保证部门](https://www.yuque.com/duoduo-b2n97/lvg8r2/px6505)

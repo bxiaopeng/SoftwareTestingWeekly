@@ -16,6 +16,8 @@
 
 ## 2021
 
+- [软件测试周刊（第22期）：只要我自己躺下，就没人能把我打倒。](https://www.yuque.com/duoduo-b2n97/lvg8r2/kflu88)
+
 - [软件测试周刊（第21期）：不要告诉我你想干什么](https://www.yuque.com/duoduo-b2n97/lvg8r2/tg9as0)
 
 

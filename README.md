@@ -16,10 +16,10 @@
 
 ## 2021
 
+- [软件测试周刊（第25期）：不要成天到晚地找意义](https://www.yuque.com/duoduo-b2n97/lvg8r2/hlwcuu)
+- [软件测试周刊（第24期）：最不重要的素质就是智商](https://www.yuque.com/duoduo-b2n97/lvg8r2/202124)
 - [软件测试周刊（第23期）：你理想中的工作是什么？](https://www.yuque.com/duoduo-b2n97/lvg8r2/wznev3)
-
 - [软件测试周刊（第22期）：只要我自己躺下，就没人能把我打倒。](https://www.yuque.com/duoduo-b2n97/lvg8r2/kflu88)
-
 - [软件测试周刊（第21期）：不要告诉我你想干什么](https://www.yuque.com/duoduo-b2n97/lvg8r2/tg9as0)
 
 

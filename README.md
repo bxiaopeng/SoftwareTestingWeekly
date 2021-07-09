@@ -16,6 +16,10 @@
 
 ## 2021
 
+- [软件测试周刊（第27期）：储存阳光，必有远芳。](https://www.yuque.com/duoduo-b2n97/lvg8r2/xgq5lf)
+
+- [软件测试周刊（第26期）：从喜欢里得到力量和快乐](https://www.yuque.com/duoduo-b2n97/lvg8r2/yonts3)
+
 - [软件测试周刊（第25期）：不要成天到晚地找意义](https://www.yuque.com/duoduo-b2n97/lvg8r2/hlwcuu)
 - [软件测试周刊（第24期）：最不重要的素质就是智商](https://www.yuque.com/duoduo-b2n97/lvg8r2/202124)
 - [软件测试周刊（第23期）：你理想中的工作是什么？](https://www.yuque.com/duoduo-b2n97/lvg8r2/wznev3)

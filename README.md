@@ -16,6 +16,14 @@
 
 ## 2021
 
+- [软件测试周刊（第31期）：所有的伟大 都源于一个勇敢的开始](https://www.yuque.com/duoduo-b2n97/lvg8r2/yvr24e)
+
+- [软件测试周刊（第30期）：专注 力量 敏捷 协作](https://www.yuque.com/duoduo-b2n97/lvg8r2/gbsgmz)
+
+- [软件测试周刊（第29期）：找回我的「没有理由就是开心」](https://www.yuque.com/duoduo-b2n97/lvg8r2/qqy5c9)
+
+- [软件测试周刊（第28期）：越向前走，越有光明的前途。](https://www.yuque.com/duoduo-b2n97/lvg8r2/htcbzl)
+
 - [软件测试周刊（第27期）：储存阳光，必有远芳。](https://www.yuque.com/duoduo-b2n97/lvg8r2/xgq5lf)
 
 - [软件测试周刊（第26期）：从喜欢里得到力量和快乐](https://www.yuque.com/duoduo-b2n97/lvg8r2/yonts3)

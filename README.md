@@ -16,6 +16,10 @@
 
 ## 2021
 
+- [软件测试周刊（第33期）：当夏季的光阴已然流逝](https://www.yuque.com/duoduo-b2n97/lvg8r2/zt79b0)
+
+- [软件测试周刊（第32期）：沙漠中藏着一口井](https://www.yuque.com/duoduo-b2n97/lvg8r2/xlv60t)
+
 - [软件测试周刊（第31期）：所有的伟大 都源于一个勇敢的开始](https://www.yuque.com/duoduo-b2n97/lvg8r2/yvr24e)
 
 - [软件测试周刊（第30期）：专注 力量 敏捷 协作](https://www.yuque.com/duoduo-b2n97/lvg8r2/gbsgmz)

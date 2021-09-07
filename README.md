@@ -16,6 +16,10 @@
 
 ## 2021
 
+- [软件测试周刊（第35期）：绝对服从就是最大的消极怠工](https://www.yuque.com/duoduo-b2n97/lvg8r2/gckqpz)
+
+- [软件测试周刊（第34期）：一岁有一岁的味道，一站有一站的风景](https://www.yuque.com/duoduo-b2n97/lvg8r2/ce2tns)
+
 - [软件测试周刊（第33期）：当夏季的光阴已然流逝](https://www.yuque.com/duoduo-b2n97/lvg8r2/zt79b0)
 
 - [软件测试周刊（第32期）：沙漠中藏着一口井](https://www.yuque.com/duoduo-b2n97/lvg8r2/xlv60t)

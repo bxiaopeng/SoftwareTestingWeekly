@@ -16,6 +16,10 @@
 
 ## 2021
 
+- [软件测试周刊（第37期）：不能随便生气](https://www.yuque.com/duoduo-b2n97/lvg8r2/xuwoet)
+
+- [软件测试周刊（第36期）：为什么你要当程序员？](https://www.yuque.com/duoduo-b2n97/lvg8r2/zakcbe)
+
 - [软件测试周刊（第35期）：绝对服从就是最大的消极怠工](https://www.yuque.com/duoduo-b2n97/lvg8r2/gckqpz)
 
 - [软件测试周刊（第34期）：一岁有一岁的味道，一站有一站的风景](https://www.yuque.com/duoduo-b2n97/lvg8r2/ce2tns)

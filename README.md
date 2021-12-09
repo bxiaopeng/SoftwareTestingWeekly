@@ -12,7 +12,7 @@
 
 欢迎提交 [issue](https://github.com/bxiaopeng/SoftwareTestingWeekly/issues)。
 
-test
+
 
 [谁在招测试？](https://www.yuque.com/bxiaofan/testingweekly/lohoi5)
 

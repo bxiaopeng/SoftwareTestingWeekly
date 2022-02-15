@@ -1,4 +1,5 @@
 # 软件测试周刊
+
 展示一周内关于**软件测试**的一些资讯，内容开源，社区共建。
 
 你可以推荐：
@@ -12,15 +13,35 @@
 
 欢迎提交 [issue](https://github.com/bxiaopeng/SoftwareTestingWeekly/issues)。
 
-
-
 [谁在招测试？](https://www.yuque.com/bxiaofan/testingweekly/lohoi5)
 
 [软件测试工具大全（持续更新）](https://www.yuque.com/bxiaofan/testingweekly/nuf0y0)
 
 [开源电子书大全（持续更新）](https://www.yuque.com/bxiaofan/testingweekly/uyhfwo)
 
+## 2022
+
+- [软件测试周刊（第58期）：春光不必趁早，冬霜不会迟到。相聚离开，全部刚刚好。](https://www.yuque.com/bxiaofan/testingweekly/uf5fw2 "软件测试周刊（第58期）：春光不必趁早，冬霜不会迟到。相聚离开，全部刚刚好。")
+
+- [软件测试周刊（第57期）：慢品人间烟火色，闲观万事岁月长。](https://www.yuque.com/bxiaofan/testingweekly/czekxt "软件测试周刊（第57期）：慢品人间烟火色，闲观万事岁月长。")
+
+- [软件测试周刊（第56期）：新年的目的并非是拥有新的一年，而是拥有一个新的灵魂。 ​​​](https://www.yuque.com/bxiaofan/testingweekly/wes8ix "软件测试周刊（第56期）：新年的目的并非是拥有新的一年，而是拥有一个新的灵魂。 ​​​")
+
+- [软件测试周刊（第55期）：梦想养活不起你的时候，你得养着梦想啊。 ​​​](https://www.yuque.com/bxiaofan/testingweekly/ykvna9 "软件测试周刊（第55期）：梦想养活不起你的时候，你得养着梦想啊。 ​​​")
+
+- [软件测试周刊（第54期）：管他乐观还是悲观，都滚蛋，干就完了！](https://www.yuque.com/bxiaofan/testingweekly/itnng0 "软件测试周刊（第54期）：管他乐观还是悲观，都滚蛋，干就完了！")
+
+- [软件测试周刊（第53期）：若要重生，请趁活着的时候。](https://www.yuque.com/bxiaofan/testingweekly/wehv33 "软件测试周刊（第53期）：若要重生，请趁活着的时候。")
+
 ## 2021
+
+- [软件测试周刊（第52期）：世事多难料，唯独花期会如期。](https://www.yuque.com/bxiaofan/testingweekly/qz9f8g "软件测试周刊（第52期）：世事多难料，唯独花期会如期。")
+
+- [软件测试周刊（第51期）：漂漂亮亮、从从容容地出现在大家面前，不仅是虚荣的事，更是庄重与自信的事。 ​​​](https://www.yuque.com/bxiaofan/testingweekly/hbo9at "软件测试周刊（第51期）：漂漂亮亮、从从容容地出现在大家面前，不仅是虚荣的事，更是庄重与自信的事。 ​​​")
+
+- [软件测试周刊（第50期）：归结起来，焦虑的原因就两条：想同时做很多事情，又想立即看到效果。](https://www.yuque.com/bxiaofan/testingweekly/qogh2m "软件测试周刊（第50期）：归结起来，焦虑的原因就两条：想同时做很多事情，又想立即看到效果。")
+
+- [软件测试周刊（第49期）：什么是大众？大众就是那些一年读书不超过五本的人。](https://www.yuque.com/bxiaofan/testingweekly/mde95x "软件测试周刊（第49期）：什么是大众？大众就是那些一年读书不超过五本的人。")
 
 - [软件测试周刊（第48期）：无聊是非常有必要的，一个人在空白时间所做的事，决定了这个人和其他人根本的不同。](https://www.yuque.com/bxiaofan/testingweekly/fk1ufg)
 
@@ -117,8 +138,6 @@
 - [软件测试周刊（第02期）：测试不背锅指南、搞垮领导、拼多多、Diagrams](https://www.yuque.com/bxiaofan/testingweekly/ewobh3)
 
 - [软件测试周刊（第01期）：古德哈特定律](https://www.yuque.com/bxiaofan/testingweekly/dbor1s)
-
-
 
 微信公众号：毕小烦
 

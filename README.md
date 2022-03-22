@@ -21,6 +21,16 @@
 
 ## 2022
 
+- [软件测试周刊（第63期）：凡是持久的，必是温和的与可持续的。](https://www.yuque.com/bxiaofan/testingweekly/nq0bz6 "软件测试周刊（第63期）：凡是持久的，必是温和的与可持续的。")
+
+- [软件测试周刊（第62期）：无论你处于什么状态，你都要明白，生活的目标是健康和快乐。](https://www.yuque.com/bxiaofan/testingweekly/gwycgb "软件测试周刊（第62期）：无论你处于什么状态，你都要明白，生活的目标是健康和快乐。")
+
+- [软件测试周刊（第61期）：内心强大的人都有三个共性「不和他人作比较」「不对他人有期待」「不批判他人」](https://www.yuque.com/bxiaofan/testingweekly/tvcelo "软件测试周刊（第61期）：内心强大的人都有三个共性「不和他人作比较」「不对他人有期待」「不批判他人」")
+
+- [软件测试周刊（第60期）：有事可做，是一个人保持最佳状态的唯一途径。](https://www.yuque.com/bxiaofan/testingweekly/ou28wp "软件测试周刊（第60期）：有事可做，是一个人保持最佳状态的唯一途径。")
+
+- [软件测试周刊（第59期）：觉得自己生活的很好吗？为什么视而不见？](https://www.yuque.com/bxiaofan/testingweekly/grgnv6 "软件测试周刊（第59期）：觉得自己生活的很好吗？为什么视而不见？")
+
 - [软件测试周刊（第58期）：春光不必趁早，冬霜不会迟到。相聚离开，全部刚刚好。](https://www.yuque.com/bxiaofan/testingweekly/uf5fw2 "软件测试周刊（第58期）：春光不必趁早，冬霜不会迟到。相聚离开，全部刚刚好。")
 
 - [软件测试周刊（第57期）：慢品人间烟火色，闲观万事岁月长。](https://www.yuque.com/bxiaofan/testingweekly/czekxt "软件测试周刊（第57期）：慢品人间烟火色，闲观万事岁月长。")

@@ -21,6 +21,10 @@
 
 ## 2022
 
+- [软件测试周刊（第65期）：不要害怕重新开始。因为这一次，你不是从头开始，而是从经验开始。](https://www.yuque.com/bxiaofan/testingweekly/bczn9h "软件测试周刊（第65期）：不要害怕重新开始。因为这一次，你不是从头开始，而是从经验开始。")
+
+- [软件测试周刊（第64期）：要和能让你快乐的一切，定期联系。](https://www.yuque.com/bxiaofan/testingweekly/ka5rmn "软件测试周刊（第64期）：要和能让你快乐的一切，定期联系。")
+
 - [软件测试周刊（第63期）：凡是持久的，必是温和的与可持续的。](https://www.yuque.com/bxiaofan/testingweekly/nq0bz6 "软件测试周刊（第63期）：凡是持久的，必是温和的与可持续的。")
 
 - [软件测试周刊（第62期）：无论你处于什么状态，你都要明白，生活的目标是健康和快乐。](https://www.yuque.com/bxiaofan/testingweekly/gwycgb "软件测试周刊（第62期）：无论你处于什么状态，你都要明白，生活的目标是健康和快乐。")

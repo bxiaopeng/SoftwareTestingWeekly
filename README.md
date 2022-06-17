@@ -21,6 +21,28 @@
 
 ## 2022
 
+- [软件测试周刊（第76期）：别太在意，人生里许多事就像冰淇淋一样，都会慢慢化掉。](https://www.yuque.com/bxiaofan/testingweekly/scigor)
+
+- [软件测试周刊（第75期）：唯有平视，才能看见真实的自己。](https://www.yuque.com/bxiaofan/testingweekly/nkly6e)
+
+- [软件测试周刊（第74期）：当你犹豫要不要去做一件事的时候，其实你内心已经有了选择，只是你还没有充足的理由去说服自己。](https://www.yuque.com/bxiaofan/testingweekly/tgr8qz)
+
+- [软件测试周刊（第73期）：每个人都有一个觉醒期，但觉醒的早晚决定个人的命运。](https://www.yuque.com/bxiaofan/testingweekly/barnse)
+
+- [软件测试周刊（第72期）：所谓学问，学学问问，就学会了嘛。最怕你不愿去学，不肯去问。](https://www.yuque.com/bxiaofan/testingweekly/bffqyv)
+
+- [软件测试周刊（第71期）：大悲时不发言，大怒时不争辩，大喜时不许诺。](https://www.yuque.com/bxiaofan/testingweekly/hg4zhd)
+
+- [软件测试周刊（第70期）：让你遇到麻烦的不是未知，而是你确信的事，并非如你所想。](https://www.yuque.com/bxiaofan/testingweekly/bgpfws)
+
+- [软件测试周刊（第69期）：说出观点需要勇气，说好笑则需要智慧。](https://www.yuque.com/bxiaofan/testingweekly/dt96nc)
+
+- [软件测试周刊（第68期）：解决棘手问题的最上乘方法是：静观其变，顺水推舟。](https://www.yuque.com/bxiaofan/testingweekly/irt3ql)
+
+- [软件测试周刊（第67期）：用一颗浏览的心，去看待人生，一切的得与失、隐与显，都是风景与风情。](https://www.yuque.com/bxiaofan/testingweekly/umgrbs)
+
+- [软件测试周刊（第66期）：成熟有一个最大的标志，就是能承受委屈。](https://www.yuque.com/bxiaofan/testingweekly/upkdr9)
+
 - [软件测试周刊（第65期）：不要害怕重新开始。因为这一次，你不是从头开始，而是从经验开始。](https://www.yuque.com/bxiaofan/testingweekly/bczn9h "软件测试周刊（第65期）：不要害怕重新开始。因为这一次，你不是从头开始，而是从经验开始。")
 
 - [软件测试周刊（第64期）：要和能让你快乐的一切，定期联系。](https://www.yuque.com/bxiaofan/testingweekly/ka5rmn "软件测试周刊（第64期）：要和能让你快乐的一切，定期联系。")

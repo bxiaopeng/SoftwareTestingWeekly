@@ -21,6 +21,10 @@
 
 ## 2022
 
+- [软件测试周刊（第78期）：你对未来越有信心，你对现在越有耐心。](https://www.yuque.com/bxiaofan/testingweekly/eo3hvt)
+
+- [软件测试周刊（第77期）：只要放弃一次，就会滋生放弃的习性， 原本可以解决的问题也会变得无法解决。](https://www.yuque.com/bxiaofan/testingweekly/ng1wo8)
+
 - [软件测试周刊（第76期）：别太在意，人生里许多事就像冰淇淋一样，都会慢慢化掉。](https://www.yuque.com/bxiaofan/testingweekly/scigor)
 
 - [软件测试周刊（第75期）：唯有平视，才能看见真实的自己。](https://www.yuque.com/bxiaofan/testingweekly/nkly6e)

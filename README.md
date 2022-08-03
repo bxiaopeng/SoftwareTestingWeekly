@@ -21,6 +21,14 @@
 
 ## 2022
 
+- [软件测试周刊（第82期）：其实所有纠结做选择的人心里早就有了答案，咨询只是想得到内心所倾向的选择。](https://www.yuque.com/bxiaofan/testingweekly/eeha9e)
+
+- [软件测试周刊（第81期）：能够对抗消极的不是积极，而是专注；能够对抗焦虑的不是安慰，而是具体。](https://www.yuque.com/bxiaofan/testingweekly/asmvp5)
+
+- [软件测试周刊（第80期）：当你想倾诉的话语已经涌到了舌尖，但是把那些话憋回去的瞬间，从那个瞬间起，你就成为了大人。 ](https://www.yuque.com/bxiaofan/testingweekly/flbtal)
+
+- [软件测试周刊（第79期）：陷在自己给自己定的框里，即使永远走直线，也是曲折的。](https://www.yuque.com/bxiaofan/testingweekly/zsd4wv)
+
 - [软件测试周刊（第78期）：你对未来越有信心，你对现在越有耐心。](https://www.yuque.com/bxiaofan/testingweekly/eo3hvt)
 
 - [软件测试周刊（第77期）：只要放弃一次，就会滋生放弃的习性， 原本可以解决的问题也会变得无法解决。](https://www.yuque.com/bxiaofan/testingweekly/ng1wo8)

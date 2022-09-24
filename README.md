@@ -21,6 +21,22 @@
 
 ## 2022
 
+- [软件测试周刊（第90期）：自以为是永远都是大敌，因为本可看到的东西也会视而不见。](https://www.yuque.com/hixf/testingweekly/io0ugk)
+
+- [软件测试周刊（第89期）：编程是思考，而不是打字。](https://www.yuque.com/hixf/testingweekly/farm3m)
+
+- [软件测试周刊（第88期）：所谓见过世面，就是会讲究，能将就。](https://www.yuque.com/hixf/testingweekly/mb25b7)
+
+- [软件测试周刊（第87期）：天下就没有偶然，那不过是化了妆的、戴了面具的必然。](https://www.yuque.com/hixf/testingweekly/czqvoh)
+
+- [软件测试周刊（第86期）：一个人为寻求他所需要的东西，走遍了全世界。回到家里，找到了。](https://www.yuque.com/hixf/testingweekly/sd9ods)
+
+- [软件测试周刊（第85期）：不要透支明天的烦恼，今天有今天的快乐。](https://www.yuque.com/hixf/testingweekly/gnex7g)
+
+- [软件测试周刊（第84期）：这个世界根本不存在“不会做”、“不能做”，只有“不想做”和“不敢做”，当你失去所有依靠的时候，你自然就什么都会了。](https://www.yuque.com/hixf/testingweekly/pw1dp8)
+
+- [软件测试周刊（第83期）：当你感觉忙得没时间休息，就是你最需要找时间休息的时候。](https://www.yuque.com/hixf/testingweekly/wd0gyx)
+
 - [软件测试周刊（第82期）：其实所有纠结做选择的人心里早就有了答案，咨询只是想得到内心所倾向的选择。](https://www.yuque.com/bxiaofan/testingweekly/eeha9e)
 
 - [软件测试周刊（第81期）：能够对抗消极的不是积极，而是专注；能够对抗焦虑的不是安慰，而是具体。](https://www.yuque.com/bxiaofan/testingweekly/asmvp5)

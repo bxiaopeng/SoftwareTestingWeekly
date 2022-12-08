@@ -13,13 +13,31 @@
 
 欢迎提交 [issue](https://github.com/bxiaopeng/SoftwareTestingWeekly/issues)。
 
-[谁在招测试？](https://www.yuque.com/bxiaofan/testingweekly/lohoi5)
-
 [软件测试工具大全（持续更新）](https://www.yuque.com/bxiaofan/testingweekly/nuf0y0)
 
 [开源电子书大全（持续更新）](https://www.yuque.com/bxiaofan/testingweekly/uyhfwo)
 
 ## 2022
+
+- [软件测试周刊（第99期）：专注在那些你喜欢自己的特质上，吸引力法则将会带来更多你自身美好的东西。](https://www.yuque.com/hixf/testingweekly/bcyb2g)
+
+- [软件测试周刊（第98期）：定义我们的，是我们有想法、追随想法、实现想法的能力。](https://www.yuque.com/hixf/testingweekly/vo9p4g)
+
+- [软件测试周刊（第97期）：在人际交往中，你接触的不是人，而是他们的防御机制。](https://www.yuque.com/hixf/testingweekly/yf97f8)
+
+- [软件测试周刊（第96期）：反思能力是精神生活的关键，而独处则是反思的前提。](https://www.yuque.com/hixf/testingweekly/lvd86u)
+
+- [软件测试周刊（第95期）： 无论高峰低谷，都能独自成军。](https://www.yuque.com/hixf/testingweekly/crt17i)
+
+- [软件测试周刊（第94期）：每个人的生活是属于自己的感受，不是属于别人的看法。](https://www.yuque.com/hixf/testingweekly/ketqnk)
+
+- [软件测试周刊（第93期）：真正的顺其自然，是竭尽所能后的不强求，而非两手空空的不作为。](https://www.yuque.com/hixf/testingweekly/gdi04w)
+
+- [软件测试周刊（第92期）：想起来全是问题，做起来才有答案。](https://www.yuque.com/hixf/testingweekly/saa6mf)
+
+- [软件测试周刊（第91期）：谁都不喜欢行李重啊。但不知不觉行李就变重了。这就是人生啊！](https://www.yuque.com/hixf/testingweekly/dv4aks)
+
+- [软件测试周刊（第91期）：谁都不喜欢行李重啊。但不知不觉行李就变重了。这就是人生啊！](https://www.yuque.com/hixf/testingweekly/dv4aks)
 
 - [软件测试周刊（第90期）：自以为是永远都是大敌，因为本可看到的东西也会视而不见。](https://www.yuque.com/hixf/testingweekly/io0ugk)
 
